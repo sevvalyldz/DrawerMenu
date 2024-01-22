@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002190676638",
+    "project_id": "my-bm-2024",
+    "storage_bucket": "my-bm-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002190676638:android:8eeb0c322614d334ec118f",
+        "android_client_info": {
+          "package_name": "com.example.drawermen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AOZFe3cfZn-BsewmzQQmizxOGvQazRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002190676638:android:bd745453db23d0d7ec118f",
+        "android_client_info": {
+          "package_name": "com.example.my_bm_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AOZFe3cfZn-BsewmzQQmizxOGvQazRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

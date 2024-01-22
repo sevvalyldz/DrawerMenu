@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Label"
+            android:icon="@drawable/baseline_add_24"
+            android:title="AddLabel" />
+        <item
+            android:id="@+id/nav_Photo"
+            android:icon="@drawable/baseline_add_a_photo_24"
+            android:title="AddPhoto" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_About"
+            android:icon="@drawable/baseline_accessibility_new_24"
+            android:title="About" />
+        <item
+            android:id="@+id/nav_Logout"
+            android:icon="@drawable/baseline_arrow_forward_24"
+            android:title="Logout" />
+
+    </group>
+</menu>
